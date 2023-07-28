@@ -1,8 +1,6 @@
 ### 😊 Olá Sou a Adriane Borsatto!
 
-Estou aprendendo e buscando novos conhecimentos na área de Data Science e Machine Learning;
-
-Os projetos que estarão disponíveis são curiosidades minhas em relação à dados;
+Sou professora de Robótica Educacional, alguns projetos com arduino que utilizo em aula ficarão disponíveis, há também curiosidades minhas como cientistta de dados, bem como artigos científicos que passaram pela minha análise de dados.
 
 Sou Engenheira de Alimentos, e trabalhei em indústrias de alimentos e bebidas, nas áreas qualidade, processo, desenvolvimento de produtos e laboratórios de análise físico-química.
 
